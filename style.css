@@ -1,0 +1,28 @@
+a {
+    color: rgba(255, 145, 0, 0.801);
+}
+
+img{
+    width: 100px;
+    height: 100px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.liens {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+}
